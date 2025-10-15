@@ -1,0 +1,6 @@
+rouge: #CD0005
+marron: #3D240E
+jaune: #C9C900
+bleu clair: #22A5C7
+bleu foncé: #1B34B8
+bordeau: #570001
