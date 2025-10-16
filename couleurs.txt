@@ -4,3 +4,4 @@ jaune: #C9C900
 bleu clair: #22A5C7
 bleu foncé: #1B34B8
 bordeau: #570001
+brique: CD533A
